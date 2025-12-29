@@ -25,7 +25,7 @@ $selectquery = "SELECT * FROM shop";
 </head>
 <style>
  body {
-            background-color: #ffe135;
+            background-color: #18f123ff;
             padding: 20px;
         }
         .card {
